@@ -12,6 +12,4 @@ shuf -o Testing.txt < Testing.txt
 
 Finally,
 NameOfTheAlgorithm.py
-Latest commit
-21cca54
-40 seconds ago
+
